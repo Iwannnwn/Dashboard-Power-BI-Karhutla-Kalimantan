@@ -38,19 +38,6 @@ Relationships are designed to connect relevant datasets and support cross-table 
 - Data Visualization
 - Dashboard UI/UX Design
 
-## Project Files
-
-- Power BI dashboard (`.pbix`)
-- Dashboard screenshots
-- Database relationship model
-- Supporting datasets and documentation, where available
-
-## Disclaimer
-
-Economic estimates, causal classifications, and health impact figures should be interpreted according to their underlying data sources, assumptions, and methodology. Please refer to the project documentation for details on data provenance and limitations.
-
 ## Author
-
 Triwanto
-
 Interested in Data Analytics, Business Intelligence, and Data Science.
