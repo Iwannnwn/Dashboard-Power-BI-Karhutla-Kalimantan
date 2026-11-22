@@ -6,7 +6,7 @@ Developed an interactive Power BI dashboard to analyze the spatial distribution 
 ## Dashboard Preview
 
 <p align="center">
-  <img src="Hasil\Image\Executive.jpg" width="32%" alt="Operations Dashboard">
+  <img src="Hasil\Image\Operations.jpg" width="32%" alt="Operations Dashboard">
   <img src="Hasil\Image\Impact.jpg" width="32%" alt="Impact Dashboard">
   <img src="Hasil\Image\Executive.jpg" width="32%" alt="Executive Dashboard">
 </p>
